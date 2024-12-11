@@ -18,4 +18,4 @@ sed -i 's/192.168.1.1/192.168.11.1/g' package/base-files/luci2/bin/config_genera
 #sed -i 's/luci-theme-bootstrap/luci-theme-argon/g' feeds/luci/collections/luci/Makefile
 
 # Modify hostname
-#sed -i 's/OpenWrt/P3TERX-Router/g' package/base-files/files/bin/config_generate
+sed -i 's/LEDE/MulanateXin/g' package/base-files/files/bin/config_generate
