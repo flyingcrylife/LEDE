@@ -17,4 +17,4 @@
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 echo 'src-git homeproxy https://github.com/lxiaya/openwrt-homeproxy' >>feeds.conf.default
-echo 'src-git argon-config https://github.com/jerrykuku/luci-app-argon-config' >>feeds.conf.default
+echo 'src-git argonconfig https://github.com/jerrykuku/luci-app-argon-config' >>feeds.conf.default
